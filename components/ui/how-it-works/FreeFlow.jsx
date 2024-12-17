@@ -18,7 +18,7 @@ const FreeFlow = () => {
         </div>
 
         <div className="right-box-content">
-          <h2 className="myH2">Chat with our student coordinator to learn more about your options</h2>
+          <h2 className="myH2">Chat with our student</h2>
         </div>
         <h1>02</h1>
       </div>
